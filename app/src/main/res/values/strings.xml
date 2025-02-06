@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WhatsAppClone</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="elly_wilis">Elly Wilis</string>
+    <string name="hi_how_are_you">Hi,how are you?</string>
+    <string name="_12_30_pm">12:30 PM</string>
+    <string name="chats">Chats</string>
+    <string name="updates">Updates</string>
+    <string name="communities">Communities</string>
+    <string name="calls">Calls</string>
+</resources>

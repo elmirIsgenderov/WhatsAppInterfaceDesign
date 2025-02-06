@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/mainFragment"
+        android:icon="@drawable/pucture_message"
+        android:title="@string/chats" />
+    <item
+        android:id="@+id/secondFragment"
+        android:icon="@drawable/picture_status"
+        android:title="@string/updates" />
+    <item
+        android:id="@+id/thirdFragment"
+        android:icon="@drawable/picture_people"
+        android:title="@string/communities" />
+    <item
+        android:id="@+id/fourthFragment"
+        android:icon="@drawable/picrure_call"
+        android:title="@string/calls" />
+</menu>
