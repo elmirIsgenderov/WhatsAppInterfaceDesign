@@ -25,8 +25,7 @@ class MainActivity : AppCompatActivity() {
             insets
         }
 
-        //binding.bottomNav.isItemActiveIndicatorEnabled = false
-        //BottomNavigation-na clicklemedikde gorsenen rengi(default olaraq gelen) deyisdirir.
+
         binding.bottomNav.isItemActiveIndicatorEnabled = true
         binding.bottomNav.setItemActiveIndicatorColor(
             ColorStateList.valueOf(
